@@ -2,6 +2,10 @@
 
 ## [Unreleased]
 
+### Added
+
+- Added Catppuccin Mocha as a built-in theme (`catppuccin-mocha`), using the full Catppuccin Mocha palette for syntax highlighting, diffs, markdown, and UI chrome
+
 ## [0.65.2] - 2026-04-06
 
 ## [0.65.1] - 2026-04-05
